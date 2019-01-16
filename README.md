@@ -1,1 +1,5 @@
-# stryker-2018-q4
+# Stryker Open Source Council 2018 Q4
+```
+npm i
+npm start
+```
